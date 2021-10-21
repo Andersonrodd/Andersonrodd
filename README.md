@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Tecnologias: <p align="left">
+  Skills: <p align="left">
   <a href="#" alt="Javascript">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
     
