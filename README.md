@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Olá, me chamo <strong>Anderson</strong>, sou um aspirante a desenvolvedor web e<br>
+  Olá, me chamo <strong>Anderson</strong>, rookie em desenvolvimento web e<br>
   atuo como estagiário em uma empresa de contabilidade.
 </p>
 
