@@ -66,4 +66,7 @@
 </p>-->
 
 
+<!-- Badges
+https://github.com/iuricode/readme-template/blob/main/badges/badges.md
+-->
 
