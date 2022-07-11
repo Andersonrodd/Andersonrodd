@@ -1,8 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Olá, me chamo <strong>Anderson</strong>, rookie em desenvolvimento web e<br>
-  atuo como estagiário em uma empresa de contabilidade.
+  Olá, me chamo <strong>Anderson</strong>, rookie em desenvolvimento web com<br>
+  Angular e Asp Net Core MVC e estudando ReactJS!
+  
 </p>
 
 <p align="left">
