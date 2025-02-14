@@ -1,4 +1,35 @@
-<h1>Greetings. I'm Anderson Rodrigo</h1>
+# Olá, eu sou [Anderson Melo]! 👋
+
+## Desenvolvedor Full-Stack | Delphi | .NET Core | React | TypeScript
+
+👨‍💻 Desenvolvedor com 3+ anos de experiência em sistemas para **varejo** e **saúde**. Expertise em Delphi, .NET Core, SQL, APIs RESTful e desenvolvimento full-stack. Atualmente estudando **React**, **TypeScript**, **Next.js** e **Node.js** para aplicações web modernas.
+
+---
+
+### 🛠️ Tecnologias
+
+- **Linguagens:** Delphi, C#, JavaScript, TypeScript, SQL
+- **Frameworks:** .NET Core, React, Next.js, Node.js
+- **Banco de Dados:** SQL Server, Firebird
+- **Ferramentas:** Git, Visual Studio, Postman
+
+---
+
+### 🚀 Projetos
+
+- **Sistema de Gestão para Clínicas:** Delphi + SQL e Firebird.
+- **Dashboard de Vendas:** .NET Core + APIs RESTful.
+- **Integração de Sistemas:** APIs seguras e escaláveis.
+
+---
+
+### 🌐 Contato
+
+- **LinkedIn:** [linkedin.com/in/anderson-melo-dev/](https://www.linkedin.com/in/anderson-melo-dev/)
+- **E-mail:** [andersonrodrigoam@gmail.com](mailto:andersonrodrigoam@gmail.com)
+
+
+<!--<h1>Greetings. I'm Anderson Rodrigo</h1>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 <p align="left"> 
  Exploring the depths of web sorcery  🔍 <br> On a never-ending quest to master the development arts 🚀 <br> | ASP.NET Core enjoyer | Java pupil |
@@ -45,26 +76,6 @@
 </p>
 
 <!-- badges: https://github.com/Ileriayo/markdown-badges -->
-<!--<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
-
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-
-  <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
-
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p>-->
 
 
 <!-- Badges
