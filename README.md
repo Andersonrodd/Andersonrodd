@@ -1,4 +1,4 @@
-# Olá, eu sou [Anderson Melo]! 👋
+# Olá, eu sou Anderson Melo!
 
 ## Desenvolvedor Full-Stack | Delphi | .NET Core | React | TypeScript
 
